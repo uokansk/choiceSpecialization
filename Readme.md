@@ -20,3 +20,6 @@
 1. Создан репозиторий на GitHub https://github.com/uokansk/choiceSpecialization.git
 2. Создан файл Readme.md
 3. Создан файл .gitignore
+4. создана блок схема
+
+![Блок схема](/image/blokShema.jpg)
